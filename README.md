@@ -1,0 +1,2 @@
+# Minicalculadorak
+Proyecto de algoritmos
